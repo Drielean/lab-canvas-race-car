@@ -13,7 +13,7 @@ window.onload = () => {
     canvas.style.backgroundSize = "cover";
     canvas.style.backgroundPosition = "center";
 
-  }
+  } 
 };
 
 const myGameArea = {
